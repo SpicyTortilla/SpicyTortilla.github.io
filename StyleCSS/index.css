@@ -34,11 +34,24 @@ body{
 	box-shadow: 2px 2px 5px black;
 }
 
+h1{
+	background-color: rgba(0,0,0,0.4);
+}
+
+h2{
+	background-color: rgba(255,255,255,0.4);
+}
+
 header{
 	margin: auto;
 	height: 100px;
 	padding: 10px;
-	background-color: rgba(255,255,255,0.5);
+	font-family: 'Expletus Sans', cursive;
+	color: white;
+	font-size: 20px;
+	background-image: url(../Images/header.jpg);
+	background-color: rgba(255,255,255,0.9);
+	background-repeat: repeat;
 	text-align: center;
 	border-radius: 5px;
 
@@ -57,7 +70,7 @@ main{
 	width: 350px;
 	padding: 10px;
 	min-height: 100%;
-	background-color: rgba(100,100,100,0.5);
+	background-color: rgba(100,100,100,0.9);
 }
 
 ul{
@@ -81,13 +94,14 @@ a:hover{
 	width: 100%;
 	padding: 10px;
 	min-height: 100%;
-	background-color: rgba(200,200,20,0.5);
+	background-color: rgba(200,200,20,0.9);
 }
 
 footer{
 	margin: auto;
 	min-height: 100px;
 	padding: 10px;
-	background-color: rgba(50,50,50,0.5);
+	background-color: rgba(50,50,50,0.9);
 	border-radius: 5px;
+	color: aqua;
 }
