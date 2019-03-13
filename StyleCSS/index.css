@@ -73,6 +73,10 @@ a{
 	text-decoration: none;
 }
 
+a:hover{
+	text-decoration: underline;
+}
+
 #me{
 	width: 100%;
 	padding: 10px;
