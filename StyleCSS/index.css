@@ -1,0 +1,19 @@
+body{
+	background-image: url(../Images/bg.svg);
+	background-attachment: fixed; ;
+	background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover; 
+}
+
+#container{
+	margin: auto;
+	margin-top: 200px;
+}
+
+#wrapper{
+	margin: auto;
+	text-align: center;
+}
