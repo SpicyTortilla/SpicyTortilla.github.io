@@ -108,4 +108,9 @@ footer{
 	background-color: rgba(50,50,50,0.9);
 	border-radius: 5px;
 	color: aqua;
+	text-align: center;
+}
+
+footer p{
+	text-align: center;
 }
